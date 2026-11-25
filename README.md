@@ -39,4 +39,12 @@ Colab は無操作が続くと切断され、ランタイムにも時間の上�
 
 ## ライセンス
 
-このノートブックは RFD4-Proteina の公開重み・コードを利用しています。利用条件は [RFD4-Proteina のリポジトリ](https://github.com/RosettaCommons/RFD4-Proteina) を参照してください。
+このチュートリアル（ノートブックと付随文書）は MIT License で配布します。
+
+このノートブックが利用するソフトウェアとデータは、それぞれの提供元の条件に従います。
+
+- [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina)
+  — BSD 3-Clause License, Copyright (c) 2026, Institute for Protein Design,
+  University of Washington. コード・モデル・重みのいずれも同ライセンスです。
+- モデルの重み: [nvidia/RFD4-Proteina](https://huggingface.co/nvidia/RFD4-Proteina)
+- 構造データ 4ZQK: RCSB PDB（座標データはパブリックドメイン）
