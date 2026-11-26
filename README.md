@@ -4,6 +4,17 @@
 
 [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) を使って、標的タンパク質に結合する小さなタンパク質（バインダー）を設計する日本語チュートリアルです。Google Colab の無料 T4 GPU で最初から最後まで動きます。
 
+## 動画チュートリアル / Video Tutorial
+
+YouTubeでGoogle Colabを使った実行方法を解説しています。
+配信では一部間違った実装のままの説明になっていますが、それを受けて修正済みです（2026/11/25）
+
+<a href="https://www.youtube.com/watch?v=22PUwC3Y3Lw">
+  <img src="https://img.youtube.com/vi/22PUwC3Y3Lw/maxresdefault.jpg"
+       width="480"
+       alt="YouTube Tutorial">
+</a>
+
 ## 題材
 
 免疫チェックポイント受容体 **PD-1**（PDB ID: [4ZQK](https://www.rcsb.org/structure/4ZQK)）を標的に、PD-L1 が結合していた面を狙ってバインダーを設計します。
